@@ -1,0 +1,37 @@
+th,th{
+    border: 2px solid black;
+    
+  }
+  tr,td{
+    border: 1px solid gray;
+  }
+
+  .edit-delete-button  a:nth-child(1){
+      text-decoration: none;
+      padding: 5px;
+      background-color: rgb(0, 140, 255);
+      color: white;
+      font-weight: bold;
+      margin: 0 5px;
+      border-radius: 5px;
+      
+  }
+  .edit-delete-button a:nth-child(2){
+    text-decoration: none;
+    padding: 5px;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    margin: 0 5px;
+    border-radius: 5px;
+}
+.submit-button {
+    text-decoration: none;
+    padding: 5px;
+    background-color:blue;
+    color: white;
+    font-weight: bold;
+    margin: 0 5px;
+    border-radius: 5px;
+}
+  
