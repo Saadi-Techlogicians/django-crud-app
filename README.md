@@ -1,4 +1,5 @@
 # django-crud-app
+Concept: MVT
 1.Employee can create information.
 2.Employee can Read information.
 3.Employee can update information.
